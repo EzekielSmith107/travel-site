@@ -16,16 +16,16 @@ const Search = () => {
                 <div className='flex flex-col lg:flex-row items-center text-center'>
                     <button><RiCustomerService2Fill size={50} /></button>
                     <div>
-                        <h3 className='py-2'>LEADING SERVICE</h3>
-                        <p className='py-1'>ALL-INCLUSIVE COMPANY FOR 20 YEARS IN A ROW</p>
+                        <h3 className='py-2 w-full'>LEADING SERVICE</h3>
+                        <p className='py-1 w-full'>Voted Best Place to Travel 3 Years Running!</p>
                     </div>
                 </div>
                 <div>
                     <div className='flex flex-col lg:flex-row items-center text-center'>
                         <button><MdOutlineTravelExplore size={50} /></button>
                         <div>
-                            <h3 className='py-2'>HIGHEST REVIEWS</h3>
-                            <p className='py-1'>ALL-INCLUSIVE COMPANY FOR 20 YEARS IN A ROW</p>
+                            <h3 className='py-2 w-full'>HIGHEST REVIEWS</h3>
+                            <p className='py-1 w-full'>Over 3000 5-star Reviews Last Year Alone!</p>
                         </div>
                     </div>
                 </div>
