@@ -1,13 +1,13 @@
 import Navbar from "./components/Navbar";
 import Hero from "./components/Hero";
-import Experiences from "./components/Experiences";
+import Destinations from "./components/Destinations";
 
 function App() {
   return (
     <div>
       <Navbar />
       <Hero />
-      <Experiences />
+      <Destinations />
     </div>
   );
 }

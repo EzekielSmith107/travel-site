@@ -5,7 +5,7 @@ import street from '../assets/street.jpg'
 import temple from '../assets/temple.jpg'
 import train from '../assets/train.jpg'
 
-const Experiences = () => {
+const Destinations = () => {
   return (
     <div className='max-w-[1240px] mx-auto py-16 px-4 text-center'>
         <h1>All-Inclusive Adventures</h1>
@@ -21,4 +21,4 @@ const Experiences = () => {
   )
 }
 
-export default Experiences
+export default Destinations
